@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.88336c8f.css",
+    "main.js": "/static/js/main.7d1a8e30.js",
+    "static/media/Work_In_Progress.png": "/static/media/Work_In_Progress.f4e8228263fdcc207579.png",
+    "static/media/c.png": "/static/media/c.90a8e63a5c41f422bb66.png",
+    "static/media/sudoko.jpg": "/static/media/sudoko.9e3b11bd0b0df072cf6d.jpg",
+    "static/media/java.png": "/static/media/java.fdabd4e11f1235e4e8e0.png",
+    "static/media/python.jpg": "/static/media/python.3e8a90f52b67ce17a3f4.jpg",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/Logo.png": "/static/media/Logo.027f5b860d8c25fa03a5.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.88336c8f.css.map": "/static/css/main.88336c8f.css.map",
+    "main.7d1a8e30.js.map": "/static/js/main.7d1a8e30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88336c8f.css",
+    "static/js/main.7d1a8e30.js"
+  ]
+}
