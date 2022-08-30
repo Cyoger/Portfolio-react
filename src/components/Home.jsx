@@ -10,13 +10,11 @@ const Home = () => {
         <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6]'>
           Akshat Sharma
         </h1>
-        <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>
+        {/* <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>
           I'm a Student at University Of Windsor.
-        </h2>
+        </h2> */}
         <p className='text-[#8892b0] py-4 max-w-[700px]'>
-          I’m a full-stack developer specializing in building (and occasionally
-          designing) exceptional digital experiences. Currently, I’m focused on
-          building responsive full-stack web applications.
+          This is my personal website, built with React.js. Please take a look around. 
         </p>
         <div>
           <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#FFD124] hover:border-[#0a192f] hover:text-black'>

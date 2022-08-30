@@ -7,6 +7,7 @@ import Java from '../assets/java.png'
 import Python from '../assets/python.jpg'
 import C from '../assets/c.png'
 import Node from '../assets/node.png'
+import Csharp from '../assets/csharp.svg'
 
 const Skills = () => {
 	return (
@@ -50,6 +51,10 @@ const Skills = () => {
 				<div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
 					<img className='w-20 mx-auto' src={Python} alt="HTML icon" />
 					<p className='my-4'>Python</p>
+				</div>
+				<div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+					<img className='w-20 mx-auto' src={Csharp} alt="HTML icon" />
+					<p className='my-4'>C#</p>
 				</div>
 			</div>
 		</div>

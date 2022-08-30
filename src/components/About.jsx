@@ -1,4 +1,5 @@
 import React from 'react';
+import Akshat from '../assets/akshat.jpg';
 
 const About = () => {
   return (
@@ -14,14 +15,13 @@ const About = () => {
           </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
             <div className='sm:text-right text-4xl font-bold'>
-              <p>Hi. I'm Akshat, nice to meet you. Please take a look around.</p>
+              
+              <img className='rounded-md w-45 mx-auto h-45' src={Akshat} alt="akshat-img" />
+              {/* <p>Hi. I'm Akshat, nice to meet you. Please take a look around.</p> */}
             </div>
             <div>
-              <p>I am passionate about building excellent software that improves
-              the lives of those around me. I specialize in creating software
-              for clients ranging from individuals and small-businesses all the
-              way to large enterprise corporations. What would you do if you had
-              a software expert available at your fingertips?</p>  
+              <p>I am Currently a 3rd year Computer Science Student at the University of Windsor, my interests are football, MMA, solving puzzles, reading and programming.
+              I aim to deepen my understanding in various areas of technology and product development. </p>  
             </div>
           </div>
       </div>

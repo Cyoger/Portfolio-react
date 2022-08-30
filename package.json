@@ -1,6 +1,6 @@
 {
-  "name": "React-portfolio",
-  "homepage": "https://Cyoger.github.io/React-portfolio",
+  "name": "Portfolio-react",
+  "homepage": "https://cyoger.github.io/personal-website/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
